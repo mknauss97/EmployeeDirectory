@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import EmployeeTable from "../Table/EmployeeTable";
-import API from '../../API'
+import API from '../../utils/API'
 
 class EmployeeData extends Component {
     state = {
@@ -54,4 +54,4 @@ class EmployeeData extends Component {
 
 }
 
-export default Data;
+export default EmployeeData;
