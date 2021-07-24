@@ -8,11 +8,11 @@ const Table = (comp) => {
                 <tr>
                     <th scope="col"></th>
                     <th scope="col">
-                        <span onClick={() => comp.sortEmpInfo("name", "first", "last")}> Name 
+                        <span onClick={() => comp.sortEmployeeInfo("name", "first", "last")}> Name 
                         <i class="bi bi-filter sort icon"></i></span></th>
                     <th scope="col">Email</th>
                     <th scope="col">
-                        <span onClick={() => comp.sortEmpInfo("location", "state", "city")}>Location 
+                        <span onClick={() => comp.sortEmployeeInfo("location", "state", "city")}>Location 
                         <i class="bi bi-filter sort icon"></i></span></th>
                 </tr>
             </thead>
