@@ -24,4 +24,5 @@ npm start
 ## Questions: 
 Any questions, comments, or concerns, please feel free to contact me at:
 * Github: (https://github.com/mknauss97)
+* Deployed: (https://mknauss97.github.io/EmployeeDirectory/)
 * Email: mknauss97@gmail.com
